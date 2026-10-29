@@ -39,4 +39,6 @@ Help us scale: The influx of code audit requests has been overwhelming. If you'd
 
 Website: ghostast.com
 Telegram Community: @ghost_ast (https://t.me/ghost_ast)
+
+
 Stay secure, review your code, and keep building. — Kaedshan
