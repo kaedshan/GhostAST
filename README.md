@@ -37,7 +37,9 @@ We're looking for talent: If you share our obsession with code security and want
 Help us scale: The influx of code audit requests has been overwhelming. If you'd like to support our hardware acquisition and infrastructure costs for our LLM research, consider dropping a donation.
 
 
-Website: ghostast.com
+Website: https://ghostast.com
+
+
 Telegram Community: @ghost_ast (https://t.me/ghost_ast)
 
 
